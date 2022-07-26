@@ -36,3 +36,21 @@ class Cat extends Animal{
 
     }
 }
+
+
+abstract class AAA{
+    public abstract void aaa();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
